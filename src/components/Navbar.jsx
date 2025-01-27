@@ -15,6 +15,10 @@ function Navbar() {
       text: "About",
     },
     {
+      id: 3,
+      text: "Skills",
+    },
+    {
       id: 5,
       text: "Contact",
     },
